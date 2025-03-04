@@ -1,0 +1,14 @@
+D:\tools\C#\BinaryToolKit\BinaryToolKit\bin\Debug\net8.0\BinaryToolKit.exe
+D:\tools\C#\BinaryToolKit\BinaryToolKit\bin\Debug\net8.0\BinaryToolKit.deps.json
+D:\tools\C#\BinaryToolKit\BinaryToolKit\bin\Debug\net8.0\BinaryToolKit.runtimeconfig.json
+D:\tools\C#\BinaryToolKit\BinaryToolKit\bin\Debug\net8.0\BinaryToolKit.dll
+D:\tools\C#\BinaryToolKit\BinaryToolKit\bin\Debug\net8.0\BinaryToolKit.pdb
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.AssemblyInfoInputs.cache
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.AssemblyInfo.cs
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.csproj.CoreCompileInputs.cache
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.dll
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\refint\BinaryToolKit.dll
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.pdb
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\BinaryToolKit.genruntimeconfig.cache
+D:\tools\C#\BinaryToolKit\BinaryToolKit\obj\Debug\net8.0\ref\BinaryToolKit.dll
